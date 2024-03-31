@@ -1,0 +1,8 @@
+- o就是既不是condition事件也不是effect事件
+- c就是condition事件
+- e就是effect事件
+- lc是时钟的量
+- ln是时钟的单位
+- l是时钟的名字
+
+如果(O)我们的(O)车子(O)再向前(C)滑动(C)五(LC)米(LN)的距离(L)，就会(O)撞上(E)那棵树(E)。上述句子属于CR5。
